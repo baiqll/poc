@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/Baiqll/poc/main/swaggerx.yaml",
+    "url": "https://raw.githubusercontent.com/Baiqll/poc/main/swagger.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/Baiqll/poc/main/swaggerx.yaml",
+            "url": "https://raw.githubusercontent.com/Baiqll/poc/main/swagger.yaml",
             "name": "GetToken"
         }
     ]
